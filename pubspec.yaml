@@ -1,0 +1,60 @@
+name: smar_tnir
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/svg/app_logo.svg
+    - assets/svg/oval_shape.svg
+    - assets/png/onboarding.png
+    - assets/png/me.png
+    - assets/svg/accounting.svg
+    - assets/svg/allottee.svg
+    - assets/svg/events.svg
+    - assets/svg/financials.svg
+    - assets/svg/issues.svg
+    - assets/svg/residential.svg
+    - assets/svg/security.svg
+    - assets/svg/tenants.svg
+    - assets/svg/emoji.svg
+    - assets/svg/home.svg
+    - assets/svg/features.svg
+    - assets/svg/billing_management.svg
+    - assets/svg/committee_wing.svg
+    - assets/svg/fixed_asset.svg
+    - assets/svg/inventory_stock.svg
+    - assets/svg/settings.svg
+    - assets/svg/coupon_affiliate.svg
+
+
+
+
